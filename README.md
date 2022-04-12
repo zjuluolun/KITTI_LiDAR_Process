@@ -8,5 +8,5 @@ mkdir build
 cd build
 cmake ..
 make
-./sortScan
+./sortscan
 ```
